@@ -1,0 +1,3 @@
+[submodule "submodules/robot-plugin"]
+	path = submodules/robot-plugin
+	url = https://github.com/jenkinsci/robot-plugin.git
