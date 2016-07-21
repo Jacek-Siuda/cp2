@@ -1,2 +1,2 @@
 # cp2
-# line 2
+# placeholder project
